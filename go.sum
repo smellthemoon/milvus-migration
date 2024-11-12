@@ -181,8 +181,8 @@ github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWE
 github.com/mattn/go-isatty v0.0.20/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
 github.com/mattn/go-sqlite3 v1.14.19 h1:fhGleo2h1p8tVChob4I9HpmVFIAkKGpiukdrgQbWfGI=
 github.com/mattn/go-sqlite3 v1.14.19/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
-github.com/milvus-io/milvus-proto/go-api/v2 v2.4.10-0.20240819025435-512e3b98866a h1:0B/8Fo66D8Aa23Il0yrQvg1KKz92tE/BJ5BvkUxxAAk=
-github.com/milvus-io/milvus-proto/go-api/v2 v2.4.10-0.20240819025435-512e3b98866a/go.mod h1:1OIl0v5PQeNxIJhCvY+K55CBUOYDZevw9g9380u1Wek=
+github.com/milvus-io/milvus-proto/go-api/v2 v2.3.4-0.20241111062829-6de3d96f664f h1:yLxT8NH0ixUOJMqJuk0xvGf0cKsr+N2xibyTat256PI=
+github.com/milvus-io/milvus-proto/go-api/v2 v2.3.4-0.20241111062829-6de3d96f664f/go.mod h1:/6UT4zZl6awVeXLeE7UGDWZvXj3IWkRsh3mqsn0DiAs=
 github.com/milvus-io/milvus-sdk-go v1.1.1 h1:QseeGBb92T4ny5jSscaWJ+toG74p5zE0kaxFyeskWSE=
 github.com/milvus-io/milvus-sdk-go v1.1.1/go.mod h1:jyYc5vzEQS9V+ZrSL2h/oeKcYiixvKBV/TrxXbLu01w=
 github.com/milvus-io/milvus-sdk-go/v2 v2.4.2-0.20241108023218-1b1dd4740eb1 h1:o0ql1/TjJS9v8neGnZ3SkPyusynek5NS3AN5j35T7JE=
